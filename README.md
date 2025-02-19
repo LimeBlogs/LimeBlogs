@@ -14,4 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://cdn.pixelbin.io/v2/limeshare/original/logo.svg" width = "300" height = "200" alt="Logo" align=center />
+<div style="text-align: center;">
+  <img 
+    src="https://cdn.pixelbin.io/v2/limeshare/original/logo.svg" 
+    width="300" 
+    height="200" 
+    alt="Logo"
+    style="display: block; margin: 0 auto;">
+</div>
