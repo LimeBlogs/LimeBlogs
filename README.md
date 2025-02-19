@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div style="text-align: center;">
   <img 
     src="https://cdn.pixelbin.io/v2/limeshare/original/logo.svg" 
-    width="300" 
+    width="400" 
     height="200" 
     alt="Logo"
     style="display: block; margin: 0 auto;">
