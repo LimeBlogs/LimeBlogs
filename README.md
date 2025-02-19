@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **LimeBlogs/LimeBlogs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,3 +22,4 @@ Here are some ideas to get you started:
     alt="Logo"
     style="display: block; margin: 0 auto;">
 </div>
+## <center> 你好，我是Lime.😉
