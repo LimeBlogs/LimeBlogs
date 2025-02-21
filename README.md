@@ -4,7 +4,7 @@
   <strong style="font-size: 32px">🌸欲买桂花同载酒，终不似，少年游。</strong>
 <p align="center">
   <img 
-    src="https://github.com/LimeBlogs/LimePan/logo.svg" 
+    src="https://limeblogs.github.io/LimePan/logo.svg" 
     width="288"  <!-- 可选宽度设置 -->
 </p>
 <p align="center">
