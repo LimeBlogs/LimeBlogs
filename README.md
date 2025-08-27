@@ -1,6 +1,6 @@
 # <div align="center">Hi,我是Lime.</div>
 <p align="center">
-  <strong style="font-size: 32px">🌸欲买桂花同载酒，终不似，少年游。</strong>
+  <strong style="font-size: 32px">🌸聚是火簇，散作繁星。</strong>
 <p align="center">
   <img 
     src="https://limeblogs.github.io/LimePan/logo.svg" 
