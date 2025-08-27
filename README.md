@@ -1,4 +1,4 @@
-# <div align="center">Hi,我是Lime.😉</div>
+# <div align="center">Hi,我是Lime.</div>
 <p align="center">
   <strong style="font-size: 32px">🌸欲买桂花同载酒，终不似，少年游。</strong>
 <p align="center">
